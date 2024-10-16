@@ -55,4 +55,4 @@ Here, I build four different reports based on previous finance data. All years i
 - Low-selling products can be given more exciting discounts.
 - Stakeholders should plan more advertisements and some amazing offers for the lowest revenue-generated months.
 
-### Thanks for Reading 🌸🌸
+### Thanks for Reading
