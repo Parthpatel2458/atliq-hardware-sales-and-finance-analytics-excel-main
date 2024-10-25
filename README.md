@@ -31,7 +31,7 @@ Here, I build seven different reports based on previous sales data. All years in
 5.	**Top & Bottom 5 Products - Quantity:**  Top 5 and bottom 5 products in terms of quantity sold.
 6.	**New Products - 2021:** New products that AtliQ Hardware began selling in 2021.
 7.	**Top 5 Countries - 2021:** Top 5 countries in terms of net sales in 2021.
-
+ 
 ### Finance Analytics: 
 Here, I build four different reports based on previous finance data. All years in the reports are fiscal years.
 1.	**P&L Statement by Fiscal Year:** This report shows yearly (2019, 2020, and 2021) amounts and percentages of different metrics (Net Sales, COGS, Gross Margin, and GM%) and compares 2021 and 2020 data.
@@ -48,6 +48,7 @@ Here, I build four different reports based on previous finance data. All years i
 - GM% is higher in 2019 compared to 2020 and 2021.
 - October, November, and December are the highest revenue generated months.
 - In 2021, New Zealand has the highest GM%.
+
 
 ### Recommendations: 
 - Customers with low net sales need more lucrative offers so that they can focus on AtliQ hardware products.
